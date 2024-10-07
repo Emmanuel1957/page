@@ -1,0 +1,60 @@
+{
+  "inicio": {
+    "banners": [
+      {
+        "id": 1,
+        "title": "Top Banner Movie",
+        "url_logo": "https://example.com/logo1.png",
+        "url_fondo": "https://example.com/background1.jpg",
+        "url_video": "https://example.com/video1.mp4",
+        "url_destino": "https://example.com/movie1",
+        "url_ver_ahora": "https://example.com/play1",
+        "descripcion": "La película más esperada del año.",
+        "url_poster": "https://example.com/poster1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "New Release",
+        "url_logo": "https://example.com/logo2.png",
+        "url_fondo": "https://example.com/background2.jpg",
+        "url_video": "https://example.com/video2.mp4",
+        "url_destino": "https://example.com/movie2",
+        "url_ver_ahora": "https://example.com/play2",
+        "descripcion": "Una nueva serie que está rompiendo récords.",
+        "url_poster": "https://example.com/poster2.jpg"
+      }
+    ],
+    "peliculas": [
+      {
+        "id": 101,
+        "titulo": "Película A",
+        "url_poster": "https://example.com/movieA.jpg",
+        "url_destino": "https://example.com/movieA",
+        "genero": "Acción"
+      },
+      {
+        "id": 102,
+        "titulo": "Película B",
+        "url_poster": "https://example.com/movieB.jpg",
+        "url_destino": "https://example.com/movieB",
+        "genero": "Comedia"
+      }
+    ],
+    "series": [
+      {
+        "id": 201,
+        "titulo": "Serie A",
+        "url_poster": "https://example.com/seriesA.jpg",
+        "url_destino": "https://example.com/seriesA",
+        "genero": "Drama"
+      },
+      {
+        "id": 202,
+        "titulo": "Serie B",
+        "url_poster": "https://example.com/seriesB.jpg",
+        "url_destino": "https://example.com/seriesB",
+        "genero": "Ciencia Ficción"
+      }
+    ]
+  }
+}
